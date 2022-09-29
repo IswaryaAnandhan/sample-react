@@ -1,5 +1,7 @@
 export default function Sample(){
-    return <h1>
-        Hello!
-    </h1>
+    return <div>
+        <h1>Hello!</h1>
+        <h2> hi everyone!!</h2>
+        </div>
+  
 }
